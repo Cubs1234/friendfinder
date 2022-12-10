@@ -9,7 +9,7 @@
     "ejs": "^2.6.2",
     "encodeurl": "^1.0.2",
     "escape-html": "^1.0.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "loader": "^2.1.1",
     "module": "^1.2.5",
     "orm": "^5.0.4",
